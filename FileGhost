@@ -1,4 +1,8 @@
 This for a ghost user
 Some change
+<<<<<<< HEAD
 Squash merge
 
+=======
+Teste change made on Fileghost
+>>>>>>> c9b0532 (made change on fileghost)
