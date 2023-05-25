@@ -6,7 +6,11 @@ Squash merge
 
 =======
 Teste change made on Fileghost
+<<<<<<< HEAD
 >>>>>>> c9b0532 (made change on fileghost)
 =======
 Teste change made on Fileghost
+>>>>>>> Feature-Ghost
+=======
+Teste
 >>>>>>> Feature-Ghost
