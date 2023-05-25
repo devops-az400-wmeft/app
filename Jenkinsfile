@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-    nodejs 'nodeJSv18'
+    	nodejs 'nodeJSv18'
 	jdk 'jdkv17'
 	maven 'maven'
 	ansible 'ansible'
@@ -106,6 +106,7 @@ pipeline {
             steps{
                 script{
                    sh ' mvn clean package'
+   		   sh 'echo "build spring application"'
                 }
             }
         }
