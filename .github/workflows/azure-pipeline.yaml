@@ -20,4 +20,3 @@ jobs:
             azure-devops-project-url: https://dev.azure.com/walidoa86/AgileProject
             azure-pipeline-name: 'PorxyCommerce'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
-
