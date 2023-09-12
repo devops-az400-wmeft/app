@@ -2,6 +2,7 @@ pipeline {
     agent any
 // Some comment and change
 // IBTISSEM ADD SOME CODE HERE 
+// ibtissem add other feature heare
     tools {
     	nodejs 'nodeJSv18'
 	jdk 'jdkv17'
