@@ -3,6 +3,7 @@ pipeline {
 // Some comment and change
 // IBTISSEM ADD SOME CODE HERE 
 // ibtissem add other feature heare
+// oualid make some change also
     tools {
     	nodejs 'nodeJSv18'
 	jdk 'jdkv17'
