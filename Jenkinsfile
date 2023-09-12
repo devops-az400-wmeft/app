@@ -1,6 +1,7 @@
 pipeline {
     agent any
 // Some comment and change
+// oualid make some change also
     tools {
     	nodejs 'nodeJSv18'
 	jdk 'jdkv17'
